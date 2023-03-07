@@ -1,0 +1,11 @@
+Preguntas de lectura: Capítulo 2
+1. Describir la estructura de una red, incluidos los dispositivos, medios y
+servicios necesarios para lograr comunicaciones exitosas.
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+INTERNETWORK E INTERNET.
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
+interfaz de red.
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
+(PDU).
