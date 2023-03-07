@@ -1,0 +1,61 @@
+Preguntas de lectura: Capítulo 1
+1. Describir el efecto que tienen las redes en nuestra vida cotidiana.
+El efecto que tienen las redes en nuestra vida cotidiana es supremamente alto e importante, esto se da a raíz de la globalización del internet y el consumo diario de las 
+tecnologías, lo cual ha permitido potenciar la red humana mediante la interacción social, comercial, política y personal. 
+Es precisamente la necesidad de las personas de interactuar lo que genera que entablar una comunicación constante sea un aspecto fundamental en la vida cotidiana. Esto es 
+sumamente importante puesto que los métodos que usamos a diario para mantener una comunicación activa están en constante cambio y evolución, se ha pasado de la red humana 
+limitante de tener comunicación cara a cara hasta poder ejercer ese aspecto comunicativo por muchos métodos nuevos y evolucionados, desde la prensa escrita hasta los nuevos
+desarrollos digitales creados para tal fin comunicativo, las nuevas tecnologías de la información y comunicación con su avance también han generado que se avance en la 
+creación e interconexión de las redes de datos, ya que en un inicio las primeras redes estaban limitadas a intercambiar información basada en caracteres entre los sistemas
+conectados y evolucionaron a tal punto de soportar notas de voz, videos, textos y gráficos en los diferentes dispositivos.
+
+2. Listar las actividades cotidianas que realiza usted utilizando internet
+* Investigación Académica.
+* Revisión de Correos.
+* Ver Videos.
+* Reproducción de música.
+* Videojuegos
+
+3. Dar ejemplos de herramientas de comunicación que utiliza o ha utilizado.
+La mensajería instantánea como el whatsapp es una de las herramientas que utilizo para comunicarme con mis familiares,compañeros de estudio, trabajo y clientes, porque 
+es muy eficiente a la hora de enviar y recibir información.
+las herramientas de colaboración como la suite de google y/o la de microsoft. Académicamente para la realización de trabajos escritos, ,presentaciones,como también para 
+la realización de código en conjunto. 
+
+
+4. Describir los factores que afectan la calidad de las comunicaciones.
+* Cuando no se pierde la conexión entre el emisor y el receptor.
+* la cantidad de veces que el mensaje es redireccionado y redirigido.
+* cuando el mensaje debe cambiar demasiado de forma
+* cuando hay mucho tráfico de mensajes a través de la red simultáneamente .
+* Si el tamaño del mensaje es demasiado grande.
+* La prioridad del mensaje a través del tráfico.
+* La complejidad que tiene el mensaje a enviar.
+
+5. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+Mensajes:  Todos los mensajes deben ser convertidos a bits, las señales digitales codificadas en binario, esto se hace antes de ser enviado a sus destinos, este proceso se 
+hace siempre sin importar el formato del mensaje original, una vez realizado el proceso estará listo para enviarse a la red para su remisión. 
+
+Dispositivos: La computadora es solo un tipo de dispositivo para enviar y recibir mensajes por una red, así como también hay muchos mas dispositivos que se pueden conectar 
+a una red y hacerse partícipes de los servicios de red como: teléfonos, cámaras, sistemas de audio, impresoras y consolas de juegos, además lo que hace que los mensajes sean
+enviados a miles de kilómetros de distancia como: cables, cables subterráneos, ondas aéreas y estaciones de satélites que existen entre el origen y el destino, además uno de
+los componentes críticos de una red es el router, ya que este une dos o más redes, como una red doméstica e internet y pasa la información, estos dentro de una red funcionan
+para asegurar que el mensaje llegue a su destino de forma rápida y eficaz. 
+
+Medio:  Un dispositivo para enviar o recibir un mensaje debe estar conectado a una red local cableada o inalámbrica, estas redes utilizan cables para proporcionar la 
+conectividad, los hilos o cables conectan a los dispositivos.
+
+Servicios: Son programas de computación que permiten respaldar la red humana, estos facilitan la comunicación en la red como lo son los correos, videollamadas, chats y 
+mensajería instantánea, estos se proporcionan por los dispositivos en la nube.
+
+Reglas: Los protocolos son de suma importancia ya que son los que especifican cómo enviar los mensajes, cómo se direccionan a través de la red y cómo se interpretan en 
+los dispositivos de destino.
+
+6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+	Los datos:  es la información que se  suministra a una computadora  como entrada y en la cual va estar codificada de manera que la máquina lo pueda almacenar.
+
+	La red de datos:  es la infraestructura en la cual podemos transmitir, enviar y recibir datos a través de un intercambio de señales digitales o análogas. 
+
+  Red convergente: Son las que transportan múltiples servicios de red, como el flujo de voz, video y datos que viajan a través de la misma red eliminando la necesidad de 
+  crear y mantener redes separadas, estas todavía mantienen muchos puntos de contacto y dispositivos especializados como computadoras personales, teléfonos etc pero en una
+  sola infraestructura de red común. 
