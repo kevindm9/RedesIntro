@@ -59,3 +59,45 @@ los dispositivos de destino.
   Red convergente: Son las que transportan múltiples servicios de red, como el flujo de voz, video y datos que viajan a través de la misma red eliminando la necesidad de 
   crear y mantener redes separadas, estas todavía mantienen muchos puntos de contacto y dispositivos especializados como computadoras personales, teléfonos etc pero en una
   sola infraestructura de red común. 
+
+7. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
+
+Tolerante a fallas: Este tipo de redes es la que se limita en el impacto en fallas en el software o hardware y que en caso de presentarse puedan recuperarse rápidamente, 
+estas redes dependen de sus enlaces o rutas entre el origen y el destino del mensaje, si estos fallan serán los procesos quienes garanticen que los mensajes se enrutan 
+instantáneamente en un enlace diferente, estas infraestructuras son físicas como los procesos lógicos que redirecciona los mensajes a través de la red. 
+
+Escalabilidad: Estas son las que pueden expandirse rápidamente para permitir nuevos usuarios y aplicaciones sin afectar el servicio de red prestado, esta depende de un 
+diseño jerárquico en capas de infraestructura subyacente y lógica. 
+
+Calidad del servicio (QoS): Las aplicaciones actuales requieren de un nivel de calidad constante y un envío ininterrumpido, esta calidad se mide con la misma presentación 
+de audio y video de la persona, los nuevos requerimientos de red cambian la manera en que se diseñan e implementan las arquitecturas de red. 
+
+Seguridad: En un medio ampliamente accesible para las comunicaciones personales y empresariales, se está dedicando un enorme esfuerzo en las áreas de investigación y 
+desarrollo para incorporar mayor seguridad en la arquitectura de la red, mientras se logra se han implementado herramientas y procedimientos para combatir los efectos de 
+seguridad inherentes en la red. 
+
+8.Investigar qué son las redes orientadas y no orientadas a la conexión.
+Redes orientadas: Son la estructura primaria de la internet actual, uno de sus beneficios es un sistema telefónico conmutado por circuito, ya que los recursos de la 
+conmutación están destinados a proporcionar un número amplio de circuitos, garantizando la calidad y la consistencia de la red en los mensajes transmitidos, otro beneficio
+es que el proveedor puede cargar las conexiones activas en su red mientras la conexión está activa. 
+
+Redes no orientadas: Una red no orientada a la conexión (también conocida como red de paquetes) es un tipo de red en la que los datos se transmiten en forma de paquetes 
+independientes entre sí, sin establecer previamente una conexión dedicada entre los dispositivos de origen y destino. En este tipo de red, cada paquete se envía por separado
+y contiene información suficiente para llegar a su destino de manera autónoma, sin depender de ningún otro paquete. Los paquetes pueden seguir diferentes rutas hacia su 
+destino y pueden llegar en un orden diferente al que fueron enviados, lo que se conoce como "entrega no garantizada".
+
+9. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+La calidad del servicio (QoS) se refiere a la capacidad de una red para garantizar que los datos se entreguen de manera oportuna, eficiente y confiable a través de la red, 
+especialmente para aplicaciones y servicios críticos que requieren una calidad de servicio constante y predecible.
+Para mantener una buena calidad de servicio se debe considerar el ancho de banda (utilizando técnicas de asignación de ancho de banda basada en prioridades para que las 
+aplicaciones reciban el ancho necesario).  También es importante la Latencia ( es el retraso que experimentan los paquetes de datos en la red, se puede minimizar con las
+tecnologías de enrutamiento y conmutación más eficientes). Pérdida de paquetes (Esta puede ser relevante en la calidad de servicio, en aplicaciones de voz y video mediante 
+técnicas de gestión de congestión como control de flujo y eliminación selectiva de paquetes) y el Jitter (es la variación del tiempo de llegada de los paquetes a su destino
+final, puede afectar de manera negativa las apps de voz y video pero se implementan técnicas de bufferizacion) 
+
+10. ¿Por qué importa la calidad del servicio en una red de datos? 
+La calidad del servicio es importante en una red de datos ya que permite a la red proporcionar un rendimiento constante  para las aplicaciones y servicios utilizan la red.
+En una red sin QoS, todos los paquetes de datos se tratan de la misma manera, o sea que las aplicaciones pueden experimentar retrasos, interrupciones y pérdida de datos 
+debido a la congestión de la red. Las aplicaciones de voz y video que requieren una calidad de servicio constante para garantizar que las comunicaciones sean claras. 
+Sin QoS, la calidad de la voz y el video puede ser deficientes debido a la pérdida de paquetes, el jitter y otros problemas y la pérdida de datos o la caída del servicio 
+de estas aplicaciones puede tener un impacto significativo en la productividad y en los ingresos de la organización.
