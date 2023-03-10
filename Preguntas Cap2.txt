@@ -2,6 +2,16 @@ Preguntas de lectura: Capítulo 2
 1. Describir la estructura de una red, incluidos los dispositivos, medios y
 servicios necesarios para lograr comunicaciones exitosas.
 
+En las redes de comunicación es necesaria la presencia de 4 elementos, los dispositivos, el medio de transmisión,el mensaje  y protocolos. La ausencia de alguno de ellos impide la transmisión de los datos por la red y la constitución de la red misma. Son necesarios también unos métodos que tienen tres elementos en común, que son: Emisor, Receptor y Canal. Todo inicia con el origen del mensaje, luego sigue el decodificador, después por medio de la señal llega al Transmisor, pasa por “El canal”, por medio de la señal llega al Receptor, después al Decodificador y por último llegaría el mensaje al Destino del mensaje.
+
+Origen del mensaje.
+Codificador.
+Transmisor.
+Medio de transmisión.
+Receptor.
+codificador.
+
+
 2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
 INTERNETWORK E INTERNET.
 
